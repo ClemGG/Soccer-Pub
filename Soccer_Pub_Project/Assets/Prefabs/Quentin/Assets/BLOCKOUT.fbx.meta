@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: a6b8154b9f4f3e74f8466df46399b95c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BrickMur1
+    100004: EncadrementPorte_Reserve3
+    100006: EncadrementPorte_Reserve4
+    100008: EncadrementPorte_Reserve5
+    100010: Porte_Reserve4
+    100012: Porte_Reserve5
+    100014: Porte_Reserve6
+    100016: Porte_Reserve7
+    100018: Sol3
+    100020: Sol4
+    100022: VictorianMur10
+    100024: VictorianMur11
+    100026: VictorianMur12
+    100028: VictorianMur7
+    100030: VictorianMur8
+    100032: VictorianMur9
+    400000: //RootNode
+    400002: BrickMur1
+    400004: EncadrementPorte_Reserve3
+    400006: EncadrementPorte_Reserve4
+    400008: EncadrementPorte_Reserve5
+    400010: Porte_Reserve4
+    400012: Porte_Reserve5
+    400014: Porte_Reserve6
+    400016: Porte_Reserve7
+    400018: Sol3
+    400020: Sol4
+    400022: VictorianMur10
+    400024: VictorianMur11
+    400026: VictorianMur12
+    400028: VictorianMur7
+    400030: VictorianMur8
+    400032: VictorianMur9
+    2100000: lambert1
+    2100002: lambert2
+    2300000: BrickMur1
+    2300002: EncadrementPorte_Reserve3
+    2300004: EncadrementPorte_Reserve4
+    2300006: EncadrementPorte_Reserve5
+    2300008: Porte_Reserve4
+    2300010: Porte_Reserve5
+    2300012: Porte_Reserve6
+    2300014: Porte_Reserve7
+    2300016: Sol3
+    2300018: Sol4
+    2300020: VictorianMur10
+    2300022: VictorianMur11
+    2300024: VictorianMur12
+    2300026: VictorianMur7
+    2300028: VictorianMur8
+    2300030: VictorianMur9
+    3300000: BrickMur1
+    3300002: EncadrementPorte_Reserve3
+    3300004: EncadrementPorte_Reserve4
+    3300006: EncadrementPorte_Reserve5
+    3300008: Porte_Reserve4
+    3300010: Porte_Reserve5
+    3300012: Porte_Reserve6
+    3300014: Porte_Reserve7
+    3300016: Sol3
+    3300018: Sol4
+    3300020: VictorianMur10
+    3300022: VictorianMur11
+    3300024: VictorianMur12
+    3300026: VictorianMur7
+    3300028: VictorianMur8
+    3300030: VictorianMur9
+    4300000: BrickMur1
+    4300002: VictorianMur7
+    4300004: VictorianMur8
+    4300006: VictorianMur9
+    4300008: VictorianMur10
+    4300010: VictorianMur11
+    4300012: VictorianMur12
+    4300014: Sol3
+    4300016: Sol4
+    4300018: EncadrementPorte_Reserve3
+    4300020: Porte_Reserve4
+    4300022: Porte_Reserve5
+    4300024: Porte_Reserve6
+    4300026: EncadrementPorte_Reserve4
+    4300028: Porte_Reserve7
+    4300030: EncadrementPorte_Reserve5
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
